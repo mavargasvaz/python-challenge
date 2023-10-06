@@ -1,7 +1,7 @@
 # python-challenge
 Module 3 Challenge
 **PyBank**
-In this Challenge,we are gpoing to test our recent skills in python to analyze the financial records. We will work wiht a given  dataset called budget_data.csv.
+In this Challenge,we are going to test our recent skills in python to analyze the financial records. We will work wiht a given  dataset called budget_data.csv.
 The dataset is composed of two columns: "Date" and "Profit/Losses and we are going to determinate the next topics:
 
 The total number of months included in the dataset
